@@ -5,11 +5,7 @@ The `settingslisted` DaNIS³H Capsule indicates which capsule settings should be
 
 ```json
 {
-  "Capsule": true,
-
-  "CapsulePublisher": "Ash",
-
-  "CapsuleName": "Ash_Toggle_Input",
+  "element": "div",
 
   "classList": [
 
