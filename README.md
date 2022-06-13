@@ -145,4 +145,4 @@ _______
 ```
 
 ### Output:
-``
+`<danis3h-capsule class="ash-toggle-input○class▵test-class-1▵test-class-2○data-test-data-1♢test-value-1○data-test-data-2♢data-test-data-2○data-test-data-3♢○data-test-data-4◦theme▹light test-class-1 test-class-2" capsulename="Ash_Toggle_Input++class:test-class-1:test-class-2++data-test-data-1:test-value-1++data-test-data-2:data-test-data-2++data-test-data-3:++data-test-data-4#theme:light" capsulepublisher="Ash" data-test-data-1="test-value-1" data-test-data-2="data-test-data-2" data-test-data-3="" data-test-data-4 ﹠pagecontext="pagefix" ﹠settingslisted="Classes DataSet LightModifiers" °theme="light">`
