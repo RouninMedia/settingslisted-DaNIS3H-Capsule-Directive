@@ -1,7 +1,7 @@
 # The `settingslisted` DaNIS3H Capsule Directive
 The `settingslisted` DaNIS³H Capsule indicates which capsule settings should be documented in the class and capsulename attributes of the HTML Element containing the rendered DaNIS3H capsule.
 
-## Reference Example of an HTML Element in a DaNIS³H Markup CodeSheet
+## Reference example: an HTML Element in a DaNIS³H Markup CodeSheet
 
 ```json
 {
@@ -40,7 +40,7 @@ The `settingslisted` DaNIS³H Capsule indicates which capsule settings should be
 
 ______
 
-## Example of a nested DaNIS³H Capsule in a DaNIS³H Markup CodeSheet
+## Comparable example: a nested DaNIS³H Capsule in a DaNIS³H Markup CodeSheet
 
 ```json
 {
