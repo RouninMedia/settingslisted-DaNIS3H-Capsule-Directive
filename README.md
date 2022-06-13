@@ -166,7 +166,14 @@ When the `settingslisted` Directive is not explicitly declared or is declared as
 ______
 
 ### A Capsule with one StrongModifier and one LightModifier
-The examples above reference a capsule with lots of settings: `StrongModifiers`, `classes`, `attributes`, `dataset`, `Directives` and `LightModifiers`.
+The examples above reference a capsule with lots of settings:
+
+ - `StrongModifiers`
+ - `classes`
+ - `attributes`
+ - `dataset`
+ - `Directives`
+ - `LightModifiers`.
 
 It's generally unlikely that a DaNIS³H Capsule will include more than two types of setting, never mind all of them.
 
