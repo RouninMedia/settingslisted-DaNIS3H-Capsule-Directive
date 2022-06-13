@@ -40,7 +40,7 @@ The `settingslisted` DaNIS³H Capsule indicates which capsule settings should be
 
 ______
 
-## Comparable example: a nested DaNIS³H Capsule in a DaNIS³H Markup CodeSheet
+## For comparison: a nested DaNIS³H Capsule in a DaNIS³H Markup CodeSheet
 
 ```json
 {
