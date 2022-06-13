@@ -105,4 +105,20 @@ ______
   }
 }
 ```
+_______
+## settingslisted Directive
 
+```json
+"Directives": {
+
+  "settingslisted": [
+
+    "StrongModifiers",
+    "Classes",
+    "Attributes",
+    "DataSet",
+    "Directives",
+    "LightModifiers"
+  ]
+},
+```
