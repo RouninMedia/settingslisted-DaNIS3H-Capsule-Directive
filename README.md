@@ -181,6 +181,6 @@ Here's a more realistic example capsule with one `StrongModifier` and one `Light
 ```
 
 ### Output:
-```
+`json
 <danis3h-capsule class="ash-toggle-input•position▸off" capsulename="Ash_Toggle_Input::Position:Off" capsulepublisher="Ash" °theme="light">
-```
+`
