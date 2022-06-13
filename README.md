@@ -162,3 +162,25 @@ When the `settingslisted` Directive is not explicitly declared or is declared as
 
 ### Output:
 `<danis3h-capsule class="ash-toggle-input•position▸off test-class-1 test-class-2" capsulename="Ash_Toggle_Input::Position:Off" capsulepublisher="Ash" test-attribute-1="test-value-1" test-attribute-2="test-attribute-2" test-attribute-3="" test-attribute-4 data-test-data-1="test-value-1" data-test-data-2="data-test-data-2" data-test-data-3="" data-test-data-4 ﹠pagecontext="pagefix" °theme="light">`
+
+### A Capsule with one StrongModifier and one LightModifier
+The examples above reference a capsule with lots of settings: `StrongModifiers`, `classes`, `attributes`, `dataset`, `Directives` and `LightModifiers`.
+
+It's generally unlikely that a DaNIS³H Capsule will include more than two types of setting, never mind all of them.
+
+Here's a more realistic example capsule with one `StrongModifier` and one `LightModifier` and no classes, no attributes, no dataset and no `Directives`:
+
+```json
+"Directives": {
+
+  "settingslisted": [
+
+    "StrongModifiers"
+  ]
+}
+```
+
+### Output:
+```
+<danis3h-capsule class="ash-toggle-input•position▸off" capsulename="Ash_Toggle_Input::Position:Off" capsulepublisher="Ash" °theme="light">
+```
