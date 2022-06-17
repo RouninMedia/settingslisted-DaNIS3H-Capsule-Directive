@@ -148,7 +148,7 @@ _______
 `<danis3h-capsule class="ash-toggle-input•position▸off ash-toggle-input○class▵test-class-1▵test-class-2○data-test-data-1♢test-value-1○data-test-data-2♢data-test-data-2○data-test-data-3♢○data-test-data-4◦theme▹light test-class-1 test-class-2" capsulename="Ash_Toggle_Input::Position:Off Ash_Toggle_Input++class:test-class-1:test-class-2++data-test-data-1:test-value-1++data-test-data-2:data-test-data-2++data-test-data-3:++data-test-data-4#theme:light" capsulepublisher="Ash" test-attribute-1="test-value-1" test-attribute-2="test-attribute-2" test-attribute-3="" test-attribute-4 data-test-data-1="test-value-1" data-test-data-2="data-test-data-2" data-test-data-3="" data-test-data-4 ﹠pagecontext="pagefix" ﹠settingslisted="Classes DataSet LightModifiers" °theme="light">`
 
 ### Default Settings:
-When the `settingslisted` Directive is not explicitly declared, or is declared as an empty array, *or* is declared with *StrongModifiers* as the only setting to list:
+When the `settingslisted` Directive is not explicitly declared, or is declared as an empty array, *or* is declared with *StrongModifiers* as the only included setting:
 
 ```json
 "Directives": {
